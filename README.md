@@ -42,3 +42,6 @@ Copy your Firebase configuration settings and update them in the firebaseconfig.
   Copy code
   npm start
  
+the backend repository is 
+
+https://github.com/Siva120700/Tg_postgres
