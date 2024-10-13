@@ -2,7 +2,7 @@ import { initializeApp } from 'firebase/app';
 import { getAuth, GoogleAuthProvider, signInWithPopup, signOut } from 'firebase/auth';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDzsPAJbBvLnbTIfXjfuQlrvmJayEml_VQ",
+    apiKey: "YOUR_API_KEY",
     authDomain: "truegradient-e1ac6.firebaseapp.com",
     projectId: "truegradient-e1ac6",
     storageBucket: "truegradient-e1ac6.appspot.com",
